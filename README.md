@@ -1,21 +1,28 @@
-## `مـرحـبـا بـكـم فـي حـسـابـي الـرسـمـي`
+# 👋 Hi there! I'm merms2002
 
-<a href="https://whatsapp.com/channel/0029VbBMLjtHAdNMblCEtU3B" target="blank"><img src="https://img.shields.io/badge/MY%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+Welcome to my GitHub profile! 🚀  
+I'm passionate about building bots, automation tools, and exploring AI-driven projects. Whether it's enhancing productivity or creating fun conversational experiences, I love bringing ideas to life with code.
 
-<a href="https://github.com/DK3MK"><img src="https://cardivo.vercel.app/api?name=ERIN-MD+&description=مرحباً+انا+جاتس+مطور+مشروع+جاتس+بوت..&image=https://raw.githubusercontent.com/ERIN-MD/ERIN-MEDIA/main/Just_For_Nano_Bot/ERIN.jpeg&backgroundColor=%23ecf0f1&instagram=ERIN-MD&whatsapp=https://whatsapp.com/channel/0029VaiUhw5BFLgV89U3rT18&pattern=leaf&colorPattern=%23eaeaea"
-/></a>
-_اسمي محمد ، المعروف باسم 𒌐ᶦᶰᵈ᭄𝗚𝗔𝗧𝗦࿐𒌐. تركيز اهتماماتي كلها في دراستي و تطوير البوتات. أنا من مصر. وانا صاحب جاتس بوت._
+## 🛠️ My Top Repositories
+- [**Botela7a**](https://github.com/merms2002/Botela7a)  
+- [**-GUTS-**](https://github.com/merms2002/-GUTS-)  
+- [**LoliBot-MD**](https://github.com/merms2002/LoliBot-MD)  
+- [**TheGutsBot**](https://github.com/merms2002/TheGutsBot)  
+- [**BarbozaBot-Ai**](https://github.com/merms2002/BarbozaBot-Ai)  
 
-`حـسـابـاتـي`
+## ⚡ What I Do
+- 🤖 Build intelligent bots and automation scripts
+- 💡 Experiment with AI, machine learning, and natural language processing
+- 🔧 Develop open-source tools to help others in the community
+- 🎨 Always learning new technologies and frameworks
 
+## 🌱 Currently Working On
+- Improving my existing bots with new features and smarter AI
+- Collaborating on open-source projects
+- Learning cutting-edge tools in the world of programming
 
+---
 
-
-
-
-### `انـجـازات`
-
-![Zam GitHub stats](https://github-readme-stats.vercel.app/api?username=ERIN-MD\&rank_icon=github&theme=algolia&locale=ar)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERIN-MD&theme=algolia&locale=ar)](https://github.com/ERIN-MD)
-![](https://github-contributor-stats.vercel.app/api?username=ERIN-MD&limit=5&theme=algolia&combine_all_yearly_contributions=true&locale=ar)
-</a>
+## 📫 Let's Connect!
+I’d love to make this profile even more outstanding and personalized.  
+**Could you share some key details?**
