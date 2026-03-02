@@ -61,17 +61,11 @@ Before building SaaS, I mastered automation:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merms2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merms2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages" />
+  <a href="https://github.com/merms2002">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=merms2002&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merms2002&layout=compact&theme=dark&langs_count=8"/>
+  </a>
+  <br>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=merms2002&theme=dark" alt="Gats Streak" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=merms2002&theme=tokyonight&hide_border=true&background=00000000" alt="streak" />
-</div>
-
----
-
-<p align="center">
-  <sub>"Code is the only place where I make the rules."</sub>
-</p>
-
