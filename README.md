@@ -1,4 +1,4 @@
-# 🚀 Welcome to my Space | I'm Mohamed 
+9# 🚀 Welcome to my Space | I'm Mohamed 
 
 ### ⚡ Student @ Military Secondary School | Aspiring Full-Stack Engineer | Polyglot in Progress
 
@@ -35,8 +35,8 @@ I'm building my "Human API" by learning multiple languages simultaneously:
 ---
 
 ### 📂 Current Projects
-- **[EgyFlow](https://github.com/your-username/egyflow):** A SaaS study management app to help students track their schedules and study progress.
-- **[Chess Pulse / Vexer](https://github.com/your-username/chess-pulse):** A professional chess analysis dashboard with Stockfish integration.
+- **[EgyFlow](https://github.com/merms2002/egyflow):** A SaaS study management app to help students track their schedules and study progress.
+- **[Chess Pulse / Vexer](https://github.com/merms2002merms2002/chess-pulse):** A professional chess analysis dashboard with Stockfish integration.
 - **Anime Edits:** Creating high-quality edits and exploring content creation strategies.
 
 ---
@@ -50,8 +50,8 @@ I'm building my "Human API" by learning multiple languages simultaneously:
 
 ### 💬 Connect with Me
 - 🌐 **Portfolio:** *Coming Soon (Built with React & Glassmorphism)*
-- ♟️ **Chess.com:** [Your Username Here]
-- 📧 **Email:** [Your Email Here]
+- ♟️ **Chess.com:** [indense7]
+- 📧 **Email:** [indense7@gmail.com]
 
 ---
 
